@@ -9,7 +9,7 @@ function indent() {
 }
 
 BUILD_DIR="$1"
-SOURCE_DIR="$(dirname $0)/../Poppins-Regular.ttf"
+SOURCE_DIR="$(dirname $0)/../Devanagari_new.ttf"
 TARGET_DIR="$BUILD_DIR/.fonts"
 
 echo "-----> Extracting fonts to $TARGET_DIR"
